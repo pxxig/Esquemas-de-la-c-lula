@@ -1,3 +1,3 @@
 # **ESQUEMAS SOBRE LA CÉLULA**
 
-https://markmap.js.org/repl
+https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md
